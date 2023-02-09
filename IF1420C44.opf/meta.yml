@@ -1,0 +1,16 @@
+id: IF1420C44
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:23:43.622139
+last_modified: 2023-02-10 00:23:43.622242
+source_metadata:
+  title: 'Asaṅga/Maitreya: Ratnagotravibhāga'
+  language: zh
+bases:
+  CEA8:
+    base_file: CEA8.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
